@@ -18,9 +18,14 @@ Your mission: survive by jumping and sliding below incoming obstacles for as lon
 ## 📸 Screenshots
 
 <p float="left">
+  <img src="screenshots/menu.png" width="250"/>
+  <img src="screenshots/signup.png" width="250"/>
+  <img src="screenshots/scoreboard.png" width="250"/>
   <img src="screenshots/gameplay1.png" width="250"/>
   <img src="screenshots/gameplay2.png" width="250"/>
-  <img src="screenshots/gameplay2.png" width="250"/>
+  <img src="screenshots/gameplay3.png" width="250"/>
+  <img src="screenshots/gameplay4.png" width="250"/>
+  <img src="screenshots/endscreen.png" width="250"/>
 </p>
 
 ---
