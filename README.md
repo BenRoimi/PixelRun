@@ -25,7 +25,9 @@ Your mission: survive by jumping and sliding below incoming obstacles for as lon
   <img src="Screenshots/gameplay2.png" width="250"/>
   <img src="Screenshots/gameplay3.png" width="250"/>
   <img src="Screenshots/gameplay4.png" width="250"/>
-  <img src="Screenshots/endscreen.png" width="250"/>
+  <div style="width: 250px; height: calc(100% - 180px); overflow: hidden;">
+      <img src="Screenshots/endscreen.png" style="display: block;">
+  </div>
 </p>
 
 ---
